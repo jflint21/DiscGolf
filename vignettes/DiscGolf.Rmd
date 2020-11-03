@@ -1,0 +1,21 @@
+---
+title: "DiscGolf"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{DiscGolf}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+This vignette is edited.
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(DiscGolf)
+```
